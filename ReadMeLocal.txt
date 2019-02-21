@@ -1,0 +1,1 @@
+Fitxer creat localment que cal enviar al repositori remot.
