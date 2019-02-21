@@ -5,3 +5,4 @@ Afegida una tercera linea.
 Afegida una quarta linia desde Local.
 Afegida una quinta linia desde local.
 Afegida quinta linia desde remot.
+Mod1
